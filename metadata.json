@@ -1,0 +1,6 @@
+{
+  "name": "Quiz dos Sabotadores da Mente",
+  "description": "Descubra quais são os sabotadores mentais que influenciam suas decisões, relacionamentos e resultados, com análise aprofundada e plano de neutralização.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
